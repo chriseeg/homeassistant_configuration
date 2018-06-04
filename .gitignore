@@ -10,6 +10,7 @@
 google_calendars.yaml     # Ignore google_calendars.yaml
 known_devices.yaml
 secrets.yaml
+home-assistant_v2.db
 
 # Directories
 
