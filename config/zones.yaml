@@ -1,0 +1,18 @@
+- name: Home
+  latitude: !secret home_latitude
+  longitude: !secret home_longitude
+  radius: 30
+  icon: mdi:home
+
+- name: Uni
+  latitude: !secret uni_latitude
+  longitude: !secret uni_longitude
+  radius: 200
+  icon: mdi:book
+
+
+#
+# Grocery Store Zones
+# Put in group.grocery_zone
+# FUTURE: When near grocery store, send groery list, webcam of fridge photo, etc.
+#

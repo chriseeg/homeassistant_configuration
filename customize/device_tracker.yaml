@@ -1,0 +1,18 @@
+device_tracker.tristans_phone_wifi:
+  hidden: true
+device_tracker.tristans_phone_bt:
+  hidden: true
+device_tracker.crystals_phone_wifi:
+  hidden: true
+device_tracker.crystals_phone_bt:
+  hidden: true
+device_tracker.chromecast:
+  hidden: true
+device_tracker.chromecast_audio:
+  hidden: true
+device_tracker.google_home:
+  hidden: true
+device_tracker.huebridge:
+  hidden: true
+device_tracker.rasplex:
+  hidden: true

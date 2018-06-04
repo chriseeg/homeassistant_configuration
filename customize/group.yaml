@@ -1,0 +1,33 @@
+
+group.door_locks:
+  friendly_name: 'Door Locks'
+  order: 2
+group.living_room:
+  friendly_name: 'Living Room'
+  order: 3
+group.weather:
+  friendly_name: 'Weather'
+group.override:
+  friendly_name: 'Administration'
+group.tristal:
+  hidden: true
+group.living_room_lights:
+  hidden: false
+  friendly_name: 'Living Room'
+group.master_bedroom_lights:
+  hidden: true
+group.inputs:
+  hidden: true
+group.simulate_presence:
+  friendly_name: 'Simulate Presence'
+  icon: mdi:account-multiple
+group.gtg:
+  hidden: true
+group.windows:
+  hidden: true
+group.devices:
+  friendly_name: 'Critical Devices'
+group.cast_devices:
+  friendly_name: 'Cast Devices'
+group.system_monitor:
+  friendly_name: 'System Monitor'

@@ -1,0 +1,108 @@
+script.go_tigers_go:
+  hidden: true
+script.timer_off:
+  hidden: true
+script.open_the_garage:
+  hidden: true
+script.close_the_garage:
+  hidden: true
+script.bedtime_lights:
+  hidden: true
+script.goodnight:
+  hidden: true
+script.goodnight_timer_off:
+  hidden: true
+script.goodbye:
+  hidden: true
+script.pause:
+  hidden: true
+script.nightlight:
+  hidden: true
+script.pause_directv:
+  hidden: true
+script.pause_plex:
+  hidden: true
+script.pause_other:
+  hidden: true
+script.unpause:
+  hidden: true
+script.unpause_other:
+  hidden: true
+script.mute:
+  hidden: true
+script.volume_up:
+  hidden: true
+script.volume_down:
+  hidden: true
+script.who_dat:
+  hidden: true
+script.christmas:
+  hidden: true
+script.stpaddysday:
+  hidden: true
+script.lock_doors:
+  hidden: true
+script.unlock_doors:
+  hidden: true
+script.lock_front_door:
+  hidden: true
+script.unlock_front_door:
+  hidden: true
+script.lock_rear_door:
+  hidden: true
+script.unlock_rear_door:
+  hidden: true
+script.revert:
+  hidden: true
+script.away_mode__day:
+  hidden: true
+script.away_mode__night:
+  hidden: true
+script.away_mode__rain:
+  hidden: true
+script.home_mode__garage_hot_start:
+  hidden: false
+script.hot_start_off:
+  hidden: true
+script.good_morning:
+  hidden: true
+script.fox:
+  hidden: true
+script.fx:
+  hidden: true
+script.fxx:
+  hidden: true
+script.nbc:
+  hidden: true
+script.cbs:
+  hidden: true
+script.abc:
+  hidden: true
+script.cartoonnetwork:
+  hidden: true
+script.comedycentral:
+  hidden: true
+script.espn:
+  hidden: true
+script.foyer_lights_off: 
+  hidden: true
+script.front_door_motion:
+  hidden: true
+script.whitenoise:
+  hidden: true
+script.fan_off:
+  hidden: true
+script.fan_on:
+  hidden: true
+script.update_hass:
+  hidden: true
+script.door_status_check:
+  hidden: true
+script.front_door_open:
+  hidden: true
+script.back_door_open:
+  hidden: true
+script.both_doors_open:
+  hidden: true
+script.nest_hot_start:
+  hidden: true

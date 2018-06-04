@@ -1,0 +1,7 @@
+#Spotify
+  - platform: spotify
+    client_id: edc655cd1e514522907069fb1c52bebb
+    client_secret: !secret spotify_key
+
+  - platform: vlc
+    name: vlc_tts

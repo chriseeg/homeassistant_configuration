@@ -1,0 +1,6 @@
+filmschauen:
+  sequence:
+    - service: hue.hue_activate_scene
+      data:
+        group_name: "Mein Zimmer"
+        scene_name: "Film schauen"

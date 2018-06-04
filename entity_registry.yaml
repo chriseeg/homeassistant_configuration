@@ -1,0 +1,28 @@
+light.nachttischlampe:
+  name:
+  platform: hue
+  unique_id: 00:17:88:01:02:f1:ec:87-0b
+light.deckenlampe:
+  name:
+  platform: hue
+  unique_id: 00:17:88:01:10:2a:f9:dd-0b
+light.fensterlampe:
+  name:
+  platform: hue
+  unique_id: 00:17:88:01:02:90:2d:b5-0b
+light.lichterkette:
+  name:
+  platform: hue
+  unique_id: 7c:b0:3e:aa:00:a6:f7:8f-03
+light.schreibtischlampe:
+  name:
+  platform: hue
+  unique_id: 00:17:88:01:10:2e:aa:f6-0b
+sensor.iphone_von_christian_battery_level:
+  name:
+  platform: ios
+  unique_id: level_iPhone-Chris
+sensor.iphone_von_christian_battery_state:
+  name:
+  platform: ios
+  unique_id: state_iPhone-Chris

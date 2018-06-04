@@ -1,0 +1,48 @@
+binary_sensor.downstairs_nest_protect_online:
+  hidden: true
+binary_sensor.downstairs_thermostat_fan:
+  hidden: true
+binary_sensor.downstairs_thermostat_has_leaf:
+  hidden: true
+binary_sensor.downstairs_thermostat_is_locked:
+  hidden: true
+binary_sensor.downstairs_thermostat_is_using_emergency_heat:
+  hidden: true
+binary_sensor.downstairs_thermostat_online:
+  hidden: true
+binary_sensor.upstairs_nest_protect_online:
+  hidden: true
+binary_sensor.upstairs_thermostat_fan:
+  hidden: true
+binary_sensor.upstairs_thermostat_has_leaf:
+  hidden: true
+binary_sensor.upstairs_thermostat_is_locked:
+  hidden: true
+binary_sensor.upstairs_thermostat_is_using_emergency_heat:
+  hidden: true
+binary_sensor.upstairs_thermostat_online:
+  hidden: true
+binary_sensor.ring_doorbell:
+  hidden: true
+binary_sensor.front_door_motion:
+  hidden: true
+binary_sensor.front_door:
+  icon: mdi:crop-portrait
+  hidden: true
+binary_sensor.front_windows:
+  icon: mdi:window-closed
+  hidden: true
+binary_sensor.garage_door:
+  icon: mdi:crop-portrait
+  hidden: true
+binary_sensor.back_door:
+  icon: mdi:crop-portrait
+  hidden: true
+binary_sensor.back_windows:
+  icon: mdi:window-closed
+  hidden: true
+binary_sensor.bedroom_windows:
+  icon: mdi:window-closed
+  hidden: true
+binary_sensor.wan_up:
+  hidden: true
